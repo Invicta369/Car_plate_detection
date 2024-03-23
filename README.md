@@ -1,8 +1,11 @@
 # Car_plate_detection
 
 Download the model and save it in a folder.
+
 Download the dataset from my roboflow page abd save it in the folder as well
+
 Download the "indian_license_plate" cascader
+
 Download the model_test.ipynb file to test the model on your selected images
 
 Please note: - The model is not very accurate in drawind the bounding box and even segmenting the plate from car
