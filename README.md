@@ -16,3 +16,7 @@ Due to this low accuracy, please try to input clear images of car with number pl
 
 
 Like the one shown above
+
+# Future Updates
+
+I will be adding a basic webpage for a more interact experience for usesrs to test my model.
