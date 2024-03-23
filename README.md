@@ -10,4 +10,6 @@ Please note: - The model is not very accurate in drawind the bounding box and ev
 Due to this low accuracy, please try to input clear images of car with number plate
 
 ![Cars9](https://github.com/Invicta369/Car_plate_detection/assets/91005649/a59d8442-cfe6-46ae-ae09-4f007a955a09)
+
+
 Like the one shown above
